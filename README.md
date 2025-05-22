@@ -67,20 +67,9 @@ Link to the original dataset: [Amazon Sales 2025](https://www.kaggle.com/dataset
 
 ---
 
-## SQL Queries
-
-All SQL scripts used in this analysis are located in the ... folder. Queries include:
-
-- Sales by product/category/day/location
-- Payment method breakdown
-- Order status distribution and cancellation rates
-- Customer sales, AOV, and retention metrics
-
----
-
 ## Visualization Report
 
-For visual insights and charts supporting this analysis, check out the [Amazon Sales 2025 Visualization Report (PDF)](./visualization_report.pdf).
+For visual insights and charts supporting this analysis, check out the [Amazon Sales 2025 Report (PDF)](visualization_report.pdf).
 
 ---
 
