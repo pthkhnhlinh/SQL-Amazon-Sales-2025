@@ -82,5 +82,5 @@ This project demonstrates how SQL can be used to generate powerful insights from
 ## Contact
 
 **Linh Pham**  
-Feel free to connect or ask questions via [Email](khanhlinhpham0302@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kh%C3%A1nh-linh-ph%E1%BA%A1m-450763290/).
+Feel free to connect or ask questions via [Email](khanhlinhpham0302@gmail.com).
 
