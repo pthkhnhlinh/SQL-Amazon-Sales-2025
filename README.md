@@ -1,6 +1,7 @@
 # SQL-Amazon-Sales-2025
 
-This project explores and analyzes Amazon’s 2025 sales data using SQL. It covers key performance indicators across product categories, customer behavior, payment methods, order statuses, and geographic trends. The goal is to uncover actionable business insights and strategic recommendations.
+This project explores and analyzes Amazon’s 2025 sales data using SQL. It covers key performance indicators across product categories, customer behavior, payment methods, order statuses, and geographic trends. The goal is to uncover actionable business insights and strategic recommendations.  
+
 Link to the original dataset: [Amazon Sales 2025](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data)
 
 ---
